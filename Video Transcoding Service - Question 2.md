@@ -3,7 +3,7 @@
 
 The designer for the website gave you the following image as the design for the page.   
 
-![VTS - Q2 - 01](images\VTS - Q2 - 01.png)
+![VTS - Q2 - 01](images/VTS - Q2 - 01.png)
 
 
 
