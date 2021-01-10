@@ -16,11 +16,11 @@ AuthorizeCore method. Change usages of the existing AuthorizeAttribute to use th
 
 ------
 
-Correct Answer: CD
-Section: (none)
-Explanation
-Explanation/Reference:
-Explanation:
+Correct Answer: CD  
+Section: (none)  
+Explanation  
+Explanation/Reference:  
+Explanation:   
 
 ------
 
