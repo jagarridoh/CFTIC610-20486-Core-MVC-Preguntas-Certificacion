@@ -11,8 +11,7 @@ A. Create a class derived from ActionResult and check for a valid HTTP header va
 method. Change all actions to return this new class.  
 B. Create an HttpHandler to check fora valid HTTP header value in the ProcessRequest method.  
 C. Create an HttpModule and check for a valid HTTP header value in the AuthenticateRequest event.  
-D. Create a class derived from AuthorizeAttribute and check for a valid HTTP header value in the   
-AuthorizeCore method. Change usages of the existing AuthorizeAttribute to use the new class.  
+D. Create a class derived from AuthorizeAttribute and check for a valid HTTP header value in the AuthorizeCore method. Change usages of the existing AuthorizeAttribute to use the new class.  
 
 ------
 
